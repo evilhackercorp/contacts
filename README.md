@@ -1,1 +1,2 @@
 # contacts
+wallet: bc1p0x6lw0pldlf98eh4rmjfga4kdqedgc2glenqscwx00qthyk28m0qsgz3qn
